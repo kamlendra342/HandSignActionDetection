@@ -27,3 +27,12 @@ To get started with the HandSignActionDetection project, follow these steps:
    ```bash
    git clone https://github.com/kamlendra342/HandSignActionDetection.git
    cd HandSignActionDetection
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 📞 Contact
+For any questions or suggestions, please reach out to the project maintainer at kamlendra342.
